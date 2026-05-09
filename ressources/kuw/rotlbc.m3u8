@@ -34,3 +34,5 @@ rlbcpublish/rlbc_240p/hdntl=exp=1721006331~acl=%2frlbclive%2frlbc.smil%2f*~data=
 https://live.kwikmotion.com/rlbclive/rlbc.smil/playlist.m3u8?hdnts=exp=1720919938~acl=/rlbclive/rlbc.smil/*~hmac=af05a0127783c19d4d96b28ced71314f1f56c7e8c8cf92ad020e7d9b2b159b39
 Failed to parse JSON response
 Failed to retrieve ACL token
+Failed to parse JSON response
+Failed to retrieve ACL token
