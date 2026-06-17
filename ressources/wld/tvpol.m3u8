@@ -2,5 +2,5 @@
 #EXT-X-VERSION:4
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=4056800,AVERAGE-BANDWIDTH=2741200,CODECS="avc1.640020,mp4a.40.2",RESOLUTION=1024x576,FRAME-RATE=50.000,AUDIO="program_audio_0"
-https://rsdt-krk201-5.tvp.pl/token/video/live/51696824/20260617/884913889/6BICOM2-OMQFhO0Vh3RhII5hOp2g42rHAvR-8KOOlBZJwwFPQKppBtz_hPMfwPrEusxelr51rqSE_I9ejCjkh2xvDxYJdo60fe2KHyfX7zYOchOKoiiFZvibT9_f2Y7WptEaajkCp65ZsnO6hVDDxZkis6ojR78pUWECgvutH88/156/master_v2.m3u8
-#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="pol",NAME="Polski",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",GROUP-ID="program_audio_0",URI="https://rsdt-krk201-5.tvp.pl/token/video/live/51696824/20260617/884913889/6BICOM2-OMQFhO0Vh3RhII5hOp2g42rHAvR-8KOOlBZJwwFPQKppBtz_hPMfwPrEusxelr51rqSE_I9ejCjkh2xvDxYJdo60fe2KHyfX7zYOchOKoiiFZvibT9_f2Y7WptEaajkCp65ZsnO6hVDDxZkis6ojR78pUWECgvutH88/156/master_a1.m3u8"
+https://tvp6.cache.orange.pl/tvp/live/AoGccrp_3havoXpgktBfdg/1781733045/video/live/live171/nginx/T4D/156/master_v2.m3u8
+#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="pol",NAME="Polski",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",GROUP-ID="program_audio_0",URI="https://tvp6.cache.orange.pl/tvp/live/AoGccrp_3havoXpgktBfdg/1781733045/video/live/live171/nginx/T4D/156/master_a1.m3u8"
