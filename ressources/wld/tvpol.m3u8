@@ -2,5 +2,5 @@
 #EXT-X-VERSION:4
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=4056800,AVERAGE-BANDWIDTH=2741200,CODECS="avc1.640020,mp4a.40.2",RESOLUTION=1024x576,FRAME-RATE=50.000,AUDIO="program_audio_0"
-https://tvp9.cache.orange.pl/tvp/live/mkl84AHaO5qSRld7cetHRg/1783728067/video/live/live171/nginx/T4D/156/master_v2.m3u8
-#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="pol",NAME="Polski",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",GROUP-ID="program_audio_0",URI="https://tvp9.cache.orange.pl/tvp/live/mkl84AHaO5qSRld7cetHRg/1783728067/video/live/live171/nginx/T4D/156/master_a1.m3u8"
+https://n-22-17.dcs.redcdn.pl/webcache/tvplive/__token__exp=1783734871~acl=/video/live/live171/nginx/T4D/*~id=fba3612a-4e43-4eea-aaef-30b599548978~ip=132.196.83.36~hmac=9471bd00ea3cd6b05392ebfedea05d456efff83d05fb35a87f96d5c12174d036/video/live/live171/nginx/T4D/156/master_v2.m3u8
+#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="pol",NAME="Polski",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",GROUP-ID="program_audio_0",URI="https://n-22-17.dcs.redcdn.pl/webcache/tvplive/__token__exp=1783734871~acl=/video/live/live171/nginx/T4D/*~id=fba3612a-4e43-4eea-aaef-30b599548978~ip=132.196.83.36~hmac=9471bd00ea3cd6b05392ebfedea05d456efff83d05fb35a87f96d5c12174d036/video/live/live171/nginx/T4D/156/master_a1.m3u8"
