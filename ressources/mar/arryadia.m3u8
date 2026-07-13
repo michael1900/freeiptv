@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480,FRAME-RATE=25,CODECS="avc1.77.30,mp4a.40.2"
-https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_480p/chunks_dvr.m3u8?token=Z12Eb8DdZnrwbWGRH_sY52A9Z_VqemRMxBc1i3FSzLc&token_path=%2Fabr_corp%2F73_arryadia_k2tgcj0&expires=1783932835
+https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_480p/chunks_dvr.m3u8?token=b9u50AT5vvdqP8xZuia4n7v1y7VWe9W-EqhR-uANEWg&token_path=%2Fabr_corp%2F73_arryadia_k2tgcj0&expires=1783943101
 #EXT-X-STREAM-INF:BANDWIDTH=754169,RESOLUTION=640x360,FRAME-RATE=25,CODECS="avc1.77.30,mp4a.40.2"
-https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_360p/chunks_dvr.m3u8?token=Z12Eb8DdZnrwbWGRH_sY52A9Z_VqemRMxBc1i3FSzLc&token_path=%2Fabr_corp%2F73_arryadia_k2tgcj0&expires=1783932835
+https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_360p/chunks_dvr.m3u8?token=b9u50AT5vvdqP8xZuia4n7v1y7VWe9W-EqhR-uANEWg&token_path=%2Fabr_corp%2F73_arryadia_k2tgcj0&expires=1783943101
 #EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=426x240,FRAME-RATE=25,CODECS="avc1.77.30,mp4a.40.2"
-https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_240p/chunks_dvr.m3u8?token=Z12Eb8DdZnrwbWGRH_sY52A9Z_VqemRMxBc1i3FSzLc&token_path=%2Fabr_corp%2F73_arryadia_k2tgcj0&expires=1783932835
+https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_240p/chunks_dvr.m3u8?token=b9u50AT5vvdqP8xZuia4n7v1y7VWe9W-EqhR-uANEWg&token_path=%2Fabr_corp%2F73_arryadia_k2tgcj0&expires=1783943101
